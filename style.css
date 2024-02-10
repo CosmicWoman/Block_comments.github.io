@@ -259,7 +259,7 @@ body {
   padding: 0 0 0 15px;
   height: 14px;
   width: 14px;
-  background: url("/img/like.svg") no-repeat;
+  background: url("./like.svg") no-repeat;
   background-size: 14px;
   opacity: 0.6;
 }
@@ -268,14 +268,14 @@ body {
   padding: 0 0 0 15px;
   height: 14px;
   width: 14px;
-  background: url("/img/like_true.svg") no-repeat;
+  background: url("./like_true.svg") no-repeat;
   background-size: 14px;
   opacity: 0.6;
 }
 .content .comments .comments_list .comment .comment_button .comment_delete {
   height: 14px;
   width: 14px;
-  background: url("/img/trash.svg") no-repeat;
+  background: url("./trash.svg") no-repeat;
   background-size: 14px;
   opacity: 0.6;
 }
